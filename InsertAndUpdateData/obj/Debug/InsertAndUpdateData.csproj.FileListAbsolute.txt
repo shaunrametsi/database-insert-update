@@ -1,0 +1,20 @@
+c:\users\media\documents\visual studio 2013\Projects\InsertAndUpdateData\InsertAndUpdateData\bin\Debug\InsertAndUpdateData.exe.config
+C:\Users\Media\documents\visual studio 2013\Projects\InsertAndUpdateData\InsertAndUpdateData\obj\Debug\InsertAndUpdateData.csprojResolveAssemblyReference.cache
+C:\Users\Media\documents\visual studio 2013\Projects\InsertAndUpdateData\InsertAndUpdateData\obj\Debug\InsertAndUpdateData.Form1.resources
+C:\Users\Media\documents\visual studio 2013\Projects\InsertAndUpdateData\InsertAndUpdateData\obj\Debug\InsertAndUpdateData.Properties.Resources.resources
+C:\Users\Media\documents\visual studio 2013\Projects\InsertAndUpdateData\InsertAndUpdateData\obj\Debug\InsertAndUpdateData.csproj.GenerateResource.Cache
+C:\Users\Media\documents\visual studio 2013\Projects\InsertAndUpdateData\InsertAndUpdateData\bin\Debug\InsertAndUpdateData.exe
+C:\Users\Media\documents\visual studio 2013\Projects\InsertAndUpdateData\InsertAndUpdateData\bin\Debug\InsertAndUpdateData.pdb
+C:\Users\Media\documents\visual studio 2013\Projects\InsertAndUpdateData\InsertAndUpdateData\obj\Debug\InsertAndUpdateData.exe
+C:\Users\Media\documents\visual studio 2013\Projects\InsertAndUpdateData\InsertAndUpdateData\obj\Debug\InsertAndUpdateData.pdb
+C:\Users\Media\documents\visual studio 2013\Projects\InsertAndUpdateData\InsertAndUpdateData\bin\Debug\data.accdb
+E:\Projects\InsertAndUpdateData\InsertAndUpdateData\bin\Debug\InsertAndUpdateData.exe.config
+E:\Projects\InsertAndUpdateData\InsertAndUpdateData\bin\Debug\InsertAndUpdateData.exe
+E:\Projects\InsertAndUpdateData\InsertAndUpdateData\obj\Debug\InsertAndUpdateData.csprojResolveAssemblyReference.cache
+E:\Projects\InsertAndUpdateData\InsertAndUpdateData\obj\Debug\InsertAndUpdateData.Form1.resources
+E:\Projects\InsertAndUpdateData\InsertAndUpdateData\obj\Debug\InsertAndUpdateData.Properties.Resources.resources
+E:\Projects\InsertAndUpdateData\InsertAndUpdateData\obj\Debug\InsertAndUpdateData.csproj.GenerateResource.Cache
+E:\Projects\InsertAndUpdateData\InsertAndUpdateData\obj\Debug\InsertAndUpdateData.csproj.CoreCompileInputs.cache
+E:\Projects\InsertAndUpdateData\InsertAndUpdateData\obj\Debug\InsertAndUpdateData.exe
+E:\Projects\InsertAndUpdateData\InsertAndUpdateData\obj\Debug\InsertAndUpdateData.pdb
+E:\Projects\InsertAndUpdateData\InsertAndUpdateData\bin\Debug\InsertAndUpdateData.pdb
